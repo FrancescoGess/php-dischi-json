@@ -1,0 +1,24 @@
+body{
+    background-color: #1d2d3c;
+}
+
+.container{
+    width: 600px;
+}
+
+.song{
+    background-color: rgba(0, 0, 0, 0.2);
+    width: calc((100% / 3) - 10px);
+}
+
+h6{
+    font-size: 15px;
+}
+
+p{
+    font-size: 12px;
+}
+
+img{
+    width: 100%;
+}
